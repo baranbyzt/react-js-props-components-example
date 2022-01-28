@@ -1,1 +1,6 @@
-bu projede compontent ve props mimarisi ile bir proje geliştirdik.
+
+
+run that project
+
++ npm install
++ npm start
